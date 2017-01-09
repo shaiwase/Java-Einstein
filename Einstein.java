@@ -1,8 +1,7 @@
 ﻿/**
  * This program is a "magic" game asking the user to type a positive 3 digit number with different first and last digit.
  * By making some calculation, the program will find the final number 1089.
- * Name : Karine Or
- * ID : 310261243
+ * Name : Karine  
  * Course : Intro to computer scienses and Java PL. 20114
  * MMN 11 Question 2
  */
